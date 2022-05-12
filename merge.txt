@@ -1,2 +1,3 @@
 text written in main branch
 text written before merge
+text written in new branch
